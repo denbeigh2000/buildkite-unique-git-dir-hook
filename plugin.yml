@@ -1,0 +1,7 @@
+name: Unique agent checkout directory
+description: Checkout out code to a directory specific to your agent, if you run multiple agents per process.
+author: https://github.com/denbeigh2000
+requirements: []
+configuration: 
+  properties: {}
+  additionalProperties: false
